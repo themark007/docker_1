@@ -1,0 +1,14 @@
+
+{
+  "name": "node-ejs-app",
+  "version": "1.0.0",
+  "description": "Basic Node app with EJS and advanced CSS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
